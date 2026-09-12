@@ -128,26 +128,6 @@ I'm continuously exploring how AI can change the way software is designed, built
 
 ---
 
-## ⚙️ How I Build
-
-```text
-Idea
-  ↓
-Specification
-  ↓
-Context Engineering
-  ↓
-AI-Assisted Implementation
-  ↓
-Testing & Iteration
-  ↓
-Production
-```
-
-I focus on giving AI the **right context, constraints, and specifications** rather than treating AI as simply a code generator.
-
----
-
 ## 📚 Currently Learning
 
 - Advanced AI Agent Architecture
